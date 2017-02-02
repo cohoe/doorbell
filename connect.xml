@@ -1,0 +1,7 @@
+<Response>
+	<Say>Connecting</Say>
+	<Dial action="http://twimlets.com/simulring?Dial=true&amp;FailUrl=http%3A%2F%2Fstatic.grantcohoe.com%2Fcloudbell%2Ffail.xml&amp;" timeout="10" callerId="617-340-8487">
+		<Number url="http://twimlets.com/whisper?Message=Someone+is+at+the+door.+Press+any+key+to+answer+and+9+to+let+them+in">207-370-7348</Number>
+		<Number url="http://twimlets.com/whisper?Message=Someone+is+at+the+door.+Press+any+key+to+answer+and+9+to+let+them+in">330-790-1701</Number>
+	</Dial>
+</Response>

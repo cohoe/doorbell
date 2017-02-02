@@ -1,0 +1,6 @@
+<Response>
+<Say>Access granted</Say>
+<Play>http://static.grantcohoe.com/cloudbell/9.wav</Play>
+<Sms to="330-790-1701">Someone has entered the building</Sms>
+<Sms to="207-370-7348">Someone has entered the building</Sms>
+</Response>

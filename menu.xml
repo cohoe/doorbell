@@ -1,0 +1,6 @@
+<Response>
+	<Gather numDigits="4" action="http://twimlets.com/menu?Message=Enter%20access%20code%20or%20press%201%20to%20be%20connected&amp;Options%5B1%5D=http%3A%2F%2Fstatic.grantcohoe.com%2Fcloudbell%2Fconnect.xml&amp;Options%5B3425%5D=http%3A%2F%2Fstatic.grantcohoe.com%2Fcloudbell%2Fletin.xml&amp;" method="POST">
+		<Say>Enter access code or press 1</Say>
+	</Gather>
+	<Redirect/>
+</Response>
